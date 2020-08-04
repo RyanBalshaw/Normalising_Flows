@@ -2,7 +2,7 @@
 My implementation of some interesting normalising flow cases in Pytorch. Tested on some simple 2D problems with a scalable implementation. As it currently stands, I have implemented:
 
 1. Planar Flows
-2. Radial Flows
+2. Radial Flows (Have not fully tested but implementation is there)
 3. Real NVP Flows
 
 I want to look at IAF, MAF and Parallel Wavenet next.
