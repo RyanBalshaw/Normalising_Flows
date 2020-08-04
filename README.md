@@ -1,5 +1,5 @@
 # Not All Flows Are Normal
-My implementation of some interesting normalising flow cases in Pytorch. Tested on some simple 2D problems with a scalable implementation. Currently have implemented:
+My implementation of some interesting normalising flow cases in Pytorch. Tested on some simple 2D problems with a scalable implementation. As it currently stands, I have implemented:
 
 1. Planar Flows
 2. Radial Flows
